@@ -10,5 +10,5 @@ compiler of your choice or here are directions
 on how to set up the [Babel plugin in Webstorm](http://mcculloughwebservices.com/2015/06/14/webstorm-babel-plugin/).
 
 Additionally, you'll need to create a Google Maps API key and put it in a `google.js` file in a `key` directory at the
-root of the project (see `index.html`).  Your `google.js` file should contain something like this:
+root of the project (see `index.html`).  Your `google.js` file should contain something like this:  
 `var api_key = '1234';`
